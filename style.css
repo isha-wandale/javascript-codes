@@ -1,0 +1,33 @@
+#heading{
+    color: rgb(46, 121, 43);
+/* }
+button{
+    color:red; */
+}
+.box{
+    height: 200px;
+    width:100px;
+    background-color:rgb(174, 127, 255);
+    border: 3px solid black;
+    color: white;
+    
+
+}
+.p{
+    color: blue;
+}
+.info{
+    color: pink;
+    background-color: black;  
+}
+.newclass{
+   background-color: rgb(173, 126, 157);
+   color: blue;
+   
+
+
+}
+.dark{
+    background-color: #fff;
+    color: white;
+}
